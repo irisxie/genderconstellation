@@ -1,0 +1,23 @@
+div {
+  color: #FFF;
+  background-color: #000;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family: 'Rubik', serif;
+  font-size: 12px;
+  color: white;
+  font-weight: 300;
+}
+}
+p {
+  font-family: 'Karla', serif;
+  font-size: 12px;
+  color: white;
+  font-weight: 300;
+}
